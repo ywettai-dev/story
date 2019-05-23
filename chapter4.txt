@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I have a dog, named Ji Ji. He is very cheerful. This is winter-plot MuM. Winter is coming!
 Our queen is dead T_T!
+=======
+I have a dog, named Ki Ki. He is very playful. 
+>>>>>>> alien-plot
